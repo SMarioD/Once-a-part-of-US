@@ -57,9 +57,6 @@ Collisions are managed using a boolean value `collisionOn`, which checks whether
 - **Factory Method**: Used in TileManager to manage object creation.
 - **State**: Used in KeyHandler to change the object's behavior depending on its internal state.
 
-### UML Diagram:
-- **[Link to UML Diagram]** *(Placeholder for actual UML diagram)*
-
 ### Bibliography:
 - [Map Editor](https://www.mapeditor.org/)
 - [Dungeon Crawler Assets](https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack)
